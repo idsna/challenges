@@ -50,12 +50,4 @@ Here are a few optional specifications you can do to get "bonus points". These a
 
 ## Submission Instructions
 
-You have 2 options for submission: fork or email.
-
-### Fork
-
-Fork this repository in GitHub, do your changes, then submit a Pull Request. We will close the Pull Request, but it serves as a mechanism to notify team members of your submission.
-
-### Email
-
-This really only applies if you have already established contact with us. If you want to submit your code privately to us, package it up in a `.zip` file and send it to your company contact.
+Please refer to the [main readme](../../README.md#submission-instructions) for details.
